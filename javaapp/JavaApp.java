@@ -22,7 +22,7 @@ public class JavaApp {
         // TODO code application logic here
         
         for(int i=0;i<10;i++){
-            System.out.println("Hello Ratheesh K V");
+            System.out.println("Welcome Ratheesh K V");
         }
         
         
